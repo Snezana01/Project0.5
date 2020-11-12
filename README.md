@@ -5,4 +5,5 @@
 Esant mažam studentų kiekiui, laikai nesiskiria.
 Tačiau nuo 100000 studentų, su list'u užima labai daug laiko.
 Greičiausiai taip neturi būti, bet gali būti dėl mažų programavimo įgūdžių.
+Dar toliau rezultatų nėra, nes programa veikia labai ilgą laiką.
 Laiko matavimai pateikti atskirame aplanke.
