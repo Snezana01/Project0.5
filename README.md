@@ -4,6 +4,6 @@
 3. Greičio matavimo rezultatai:
 Esant mažam studentų kiekiui, laikai nesiskiria.
 Tačiau nuo 100000 studentų, su list'u užima labai daug laiko.
-Greičiausiai taip neturi būti, bet gali būti dėl mažų programavimo įgūdžių.
+Greičiausiai taip neturi būti, bet gali būti dėl mažų programavimo įgūdžių. T.y. programą galima buvo realizuoti kitu būdu arba yra klaidų.
 Dar toliau rezultatų nėra, nes programa veikia labai ilgą laiką.
 Laiko matavimai pateikti atskirame aplanke.
